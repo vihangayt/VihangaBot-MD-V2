@@ -28,9 +28,9 @@
 <p align="center">By Vihanga YT>| © | Reserved  </br> 
 
 
-1. Click [SCAN](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
+1. Click [SCAN](https://replit.com/@VIHANGA-YTYT/Vihanga-MD-QR?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
-2. Click [FORK](https://github.com/vihangayt0/VihangaBot-MD/fork)
+2. Click [FORK](https://github.com/vihangayt0/VihangaBot-MD-V2/fork)
 
 2. After That Upload Session.json File
 
