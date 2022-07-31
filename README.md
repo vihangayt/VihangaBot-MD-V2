@@ -27,7 +27,7 @@
 
 <p align="center">By Vihanga YT>| © | Reserved  </br> 
  
- [##My Website :](https://sites.google.com/view/vihangabot-md/vihangamd)
+ ##My Website :[Click Heare](https://sites.google.com/view/vihangabot-md/vihangamd)
 
 1. Click [SCAN](https://replit.com/@VIHANGA-YTYT/Vihanga-MD-QR?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
